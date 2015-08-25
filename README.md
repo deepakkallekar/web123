@@ -1,2 +1,2 @@
 # web123
-about www
+it's for web programmer
